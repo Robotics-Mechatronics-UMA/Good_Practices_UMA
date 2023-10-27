@@ -1,0 +1,12 @@
+<launch>
+  <arg name="namespace" default="ros_cpp_template"/>
+
+  <group ns="$(arg namespace)">
+    <node  
+      pkg="ros_cpp_template" 
+      type="ros_cpp_template_node"
+      name="ros_cpp_template"
+      output="screen">
+    </node>
+  </group>
+</launch>

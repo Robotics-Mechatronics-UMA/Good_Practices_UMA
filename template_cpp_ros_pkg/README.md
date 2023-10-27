@@ -11,7 +11,8 @@ Or, add some keywords to the Bitbucket or GitHub repository.
 
 ### License
 
-The source code is released under a [BSD 3-Clause license](ros_package_template/LICENSE).
+TO DO
+<!-- The source code is released under a [BSD 3-Clause license](ros_package_template/LICENSE). -->
 
 **Author: Dahui Lin<br />
 Affiliation: [Robotics and Mechatronics Group (University of Málaga)](https://www.uma.es/robotics-and-mechatronics/)<br />

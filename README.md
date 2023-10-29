@@ -6,7 +6,7 @@ The [template_cpp_ros_pkg](template_cpp_ros_pkg/) also includes a .yml for conti
 
 ## Documents 
 
-Guides to how to program and integrate the package in the [docs](docs/good_practices.md).
+Guides "how to program" and integrate the package in [docs](docs/good_practices.md).
 
 ## Extra doc
 

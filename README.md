@@ -2,8 +2,9 @@
 
 This is a dummy package to collect standar convetions and best practices for a C++ program in ROS. This package is oriented for guiding professors, students, researchers and laboratory technicians of Malaga University.
 
-The [template_cpp_ros_pkg](template_cpp_ros_pkg/) also includes a .yml for continous integration in ROS (working) in order to test the node execution.
+The [template_cpp_ros_pkg](template_cpp_ros_pkg/) also includes a .yml for continous integration in ROS (working) in order to test the node execution. 
 
+There are two ways to set the ci with dockers (EOL distributions) and without. Choose the correct file depending the linux and ros distribution by including in the  [workflows folder](/template_cpp_ros_pkg/.github/workflows/).
 ## Documents 
 
 Guides "how to program" and integrate the package in [docs](docs/good_practices.md).

@@ -1,0 +1,3 @@
+[submodule "template_cpp_ros_pkg"]
+	path = template_cpp_ros_pkg
+	url = git@github.com:Robotics-Mechatronics-UMA/template_cpp_ros_pkg.git

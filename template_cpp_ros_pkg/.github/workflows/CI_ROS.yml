@@ -1,5 +1,0 @@
-name: CI_ROS_test
-
-on:
-  push:
-    branch: [main]
